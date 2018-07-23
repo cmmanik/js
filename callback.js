@@ -68,4 +68,4 @@ var newarr3 = myMap(myarry, function(val){
 })
 console.log('add 2 arrey every element',newarr1);
 console.log('divided 2 arrey every element',newarr2);
-console.log('mimus 2 arrey every element',newarr1);
+console.log('minus 2 arrey every element',newarr1);
